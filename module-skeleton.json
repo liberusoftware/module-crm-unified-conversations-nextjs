@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-unified-conversations-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-unified-conversations",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-unified-conversations-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/unified-conversations.md",
+  "presentationPlan": "projects/crm/nextjs/unified-conversations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
